@@ -20,7 +20,7 @@ module.exports = {
     PACK_AUTHOR: process.env.PACK_AUTHOR || "", // Custom
     PACK_NAME: process.env.PACK_NAME || "",
     PREFIX: process.env.PREFIX || ".",
-    VERSION: process.env.VERSION || "7.0.0",
+    VERSION: process.env.VERSION || "9.0.0",
     ANTI_LINK: process.env.ANTI_LINK || "false", // true = kick, delete = delete, warn = warn
     ANTI_CALL: process.env.ANTI_CALL || "false",
     ANTIBAD: process.env.ANTIBAD || "false",
