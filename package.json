@@ -1,5 +1,5 @@
 {
-  "name": "starkmd",
+  "name": "STARK-MD",
   "version": "9.0.0",
   "description": "NOT THE BEST BOT IN THE UNIVERSE, BUT ENJOYMENT IS PROMISING 💫",
   "main": "index.js",
@@ -51,6 +51,7 @@
     "node-cache": "5.1.2",
     "node-fetch": "^3.3.2",
     "node-webpmux": "^3.1.8",
+    "gifted-btns": "^1.0.2",
     "path": "^0.12.7",
     "adm-zip": "^0.5.16",
     "pino": "^7.0.5",
